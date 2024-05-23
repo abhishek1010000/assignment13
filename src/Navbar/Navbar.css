@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .nav-right{
+    margin-right: 30px;
+    font-size: 18px;
+}
+.nav-left{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding: 15px;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    color: rgb(6, 182, 212);
+    font-weight: 500;
+    font-size: 25px;
+}
